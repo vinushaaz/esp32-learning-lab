@@ -16,7 +16,3 @@ This repository serves as my practical engineering laboratory. Each experiment f
 - Git and GitHub
 **Learning by building. Engineering by experimenting.**
 
-
-
-https://github.com/user-attachments/assets/b1b68daf-877e-42fc-9058-524b5b0430f5
-
