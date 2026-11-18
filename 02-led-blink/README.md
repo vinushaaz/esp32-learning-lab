@@ -1,9 +1,7 @@
 # 02 - ESP32 LED Blink
 
-
-https://github.com/user-attachments/assets/c4937f3d-0060-4931-86b7-ead728de9ad9
-
-
+https://github.com/user-attachments/assets/3adc7abe-7bf0-484b-b4d8-124a6befaf1e
+<img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/46279063-402d-4d34-9888-cddb2fa6e92c" />
 **Framework:** PlatformIO  
 **Platform:** Espressif 32  
 **Language:** C++  
